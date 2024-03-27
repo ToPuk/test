@@ -1,0 +1,8 @@
+p {
+    color: pink;
+}
+
+.parent .btn {
+    background-color: black;
+}
+
